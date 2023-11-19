@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- This is just an example; adjust the drawable as needed for your splash screen -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="@color/white"/> <!-- replace with your splash color -->
+    </shape>
+
